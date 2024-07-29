@@ -1,5 +1,5 @@
 - 👋 Hi, I’m Aman Bajpai
-- 👀 I’m interested in Gangester
+- 👀 I’m interested in programming
 - 🌱 I’m currently learning BCA sec
 - 💞️ I’m looking to collaborate on ...
 - 📫 How to reach me ...
